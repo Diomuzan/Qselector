@@ -1,0 +1,9 @@
+html {
+    font-family: 'Noto Sans', sans-serif;
+}
+.flagshipphone {
+display: inline-block; 
+position: relative; 
+top: 200px;
+left: 400px;
+}
